@@ -1,0 +1,11 @@
+D:\C#\ComPort\packages\ILMerge.3.0.41\tools\net452 - брать из этой папки файлы и копировать в папку,
+где должна произойти инкапсуляция
+
+В строке путь к папке написать - cmd!!!
+
+Первый шаг: в cmd написать - ilmerge BusStopBoard.exe CommonServiceLocator.dll /out:NewBusStopBoard.exe
+							 ilmerge NewBusStopBoard.exe GalaSoft.MvvmLight.dll /out:NewBusStopBoard_1.exe
+NewBusStopBoard.exe - название текущего exe
+GalaSoft.MvvmLight.dll - названия dll, которые нужно добавить
+NewNewBusStopBoard.exe - новое название exe
+

@@ -1,0 +1,6 @@
+D:\C#\BusStopBoard\ProtocolLibrary\bin\Release\ProtocolLibrary.dll
+D:\C#\BusStopBoard\ProtocolLibrary\bin\Release\ProtocolLibrary.pdb
+D:\C#\BusStopBoard\ProtocolLibrary\obj\Release\ProtocolLibrary.csproj.AssemblyReference.cache
+D:\C#\BusStopBoard\ProtocolLibrary\obj\Release\ProtocolLibrary.csproj.CoreCompileInputs.cache
+D:\C#\BusStopBoard\ProtocolLibrary\obj\Release\ProtocolLibrary.dll
+D:\C#\BusStopBoard\ProtocolLibrary\obj\Release\ProtocolLibrary.pdb

@@ -1,0 +1,147 @@
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\BusStopBoard.exe.config
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\BusStopBoard.exe
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\BusStopBoard.pdb
+D:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.csproj.AssemblyReference.cache
+D:\C#\BusStopBoard\BusStopBoard\obj\Debug\App.g.cs
+D:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard_MarkupCompile.cache
+D:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard_MarkupCompile.lref
+D:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.g.resources
+D:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.Properties.Resources.resources
+D:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.csproj.GenerateResource.cache
+D:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.csproj.CoreCompileInputs.cache
+D:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.exe
+D:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.pdb
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\CommonServiceLocator.dll
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.dll
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\System.Windows.Interactivity.dll
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.xml
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.csproj.CopyComplete
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\BusStopBoard.exe.config
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\BusStopBoard.exe
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\BusStopBoard.pdb
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\CommonServiceLocator.dll
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.dll
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\System.Windows.Interactivity.dll
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.pdb
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.xml
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+G:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.csproj.AssemblyReference.cache
+G:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.csproj.SuggestedBindingRedirects.cache
+G:\C#\BusStopBoard\BusStopBoard\obj\Debug\App.g.cs
+G:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard_MarkupCompile.cache
+G:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard_MarkupCompile.lref
+G:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.g.resources
+G:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.Properties.Resources.resources
+G:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.csproj.GenerateResource.cache
+G:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.csproj.CoreCompileInputs.cache
+G:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.csproj.CopyComplete
+G:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.exe
+G:\C#\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.pdb
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\CustomControlLibrary.dll
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\CustomControlLibrary.pdb
+D:\C#\BusStopBoard\BusStopBoard\obj\Debug\App.baml
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\ProtocolLibrary.dll
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\ProtocolLibrary.pdb
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\ModelLibrary.dll
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\ModelLibrary.pdb
+G:\C#\BusStopBoard\BusStopBoard\obj\Debug\Resources\Button.baml
+G:\C#\BusStopBoard\BusStopBoard\obj\Debug\Screens\View\MainWindow\MainWindow.g.cs
+G:\C#\BusStopBoard\BusStopBoard\obj\Debug\Screens\View\SettingWindow\SettingWindow.g.cs
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\CustomControlLibrary.dll
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\ModelLibrary.dll
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\ProtocolLibrary.dll
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\CustomControlLibrary.pdb
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\ModelLibrary.pdb
+G:\C#\BusStopBoard\BusStopBoard\bin\Debug\ProtocolLibrary.pdb
+G:\C#\BusStopBoard\BusStopBoard\obj\Debug\App.baml
+G:\C#\BusStopBoard\BusStopBoard\obj\Debug\Screens\View\MainWindow\MainWindow.baml
+G:\C#\BusStopBoard\BusStopBoard\obj\Debug\Screens\View\SettingWindow\SettingWindow.baml
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\BusStopBoard.exe.config
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\BusStopBoard.exe
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\BusStopBoard.pdb
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\CommonServiceLocator.dll
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\CustomControlLibrary.dll
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.dll
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\ModelLibrary.dll
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\ProtocolLibrary.dll
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\System.Windows.Interactivity.dll
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\CustomControlLibrary.pdb
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\ModelLibrary.pdb
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\ProtocolLibrary.pdb
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.xml
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\obj\Debug\BusStopBoard.csproj.AssemblyReference.cache
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\obj\Debug\Screens\View\MainWindow\MainWindow.g.cs
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\obj\Debug\Screens\View\SettingWindow\SettingWindow.g.cs
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\obj\Debug\App.g.cs
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\obj\Debug\BusStopBoard_MarkupCompile.cache
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\obj\Debug\BusStopBoard_MarkupCompile.lref
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\obj\Debug\App.baml
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\obj\Debug\Screens\View\MainWindow\MainWindow.baml
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\obj\Debug\Screens\View\SettingWindow\SettingWindow.baml
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\obj\Debug\BusStopBoard.g.resources
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\obj\Debug\BusStopBoard.Properties.Resources.resources
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\obj\Debug\BusStopBoard.csproj.GenerateResource.cache
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\obj\Debug\BusStopBoard.csproj.CoreCompileInputs.cache
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\obj\Debug\BusStopBoard.csproj.CopyComplete
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\obj\Debug\BusStopBoard.exe
+D:\C#\BusStopBoard (ModelLibrary)\BusStopBoard\obj\Debug\BusStopBoard.pdb
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\MainWindow_BusStopBoard.dll
+D:\C#\BusStopBoard\BusStopBoard\bin\Debug\MainWindow_BusStopBoard.pdb
+D:\C#\BusStopBoard\BusStopBoard\obj\Debug\View\SettingWindow.g.cs
+D:\C#\BusStopBoard\BusStopBoard\obj\Debug\View\SettingWindow.baml
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\BusStopBoard.exe.config
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\BusStopBoard.exe
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\BusStopBoard.pdb
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\CommonServiceLocator.dll
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\CustomControlLibrary.dll
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\MainWindow_BusStopBoard.dll
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\ModelLibrary.dll
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\ProtocolLibrary.dll
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\CustomControlLibrary.pdb
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\MainWindow_BusStopBoard.pdb
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\ModelLibrary.pdb
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\ProtocolLibrary.pdb
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.csproj.AssemblyReference.cache
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.csproj.SuggestedBindingRedirects.cache
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\obj\Debug\View\SettingWindow.g.cs
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\obj\Debug\App.g.cs
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard_MarkupCompile.cache
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard_MarkupCompile.lref
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\obj\Debug\App.baml
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\obj\Debug\View\SettingWindow.baml
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.g.resources
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.Properties.Resources.resources
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.csproj.GenerateResource.cache
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.csproj.CoreCompileInputs.cache
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.csproj.CopyComplete
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.exe
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\BusStopBoard\obj\Debug\BusStopBoard.pdb

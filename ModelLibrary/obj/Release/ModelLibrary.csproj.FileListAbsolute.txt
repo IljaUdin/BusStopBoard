@@ -1,0 +1,6 @@
+D:\C#\BusStopBoard\ModelLibrary\bin\Release\ModelLibrary.dll
+D:\C#\BusStopBoard\ModelLibrary\bin\Release\ModelLibrary.pdb
+D:\C#\BusStopBoard\ModelLibrary\obj\Release\ModelLibrary.csproj.AssemblyReference.cache
+D:\C#\BusStopBoard\ModelLibrary\obj\Release\ModelLibrary.csproj.CoreCompileInputs.cache
+D:\C#\BusStopBoard\ModelLibrary\obj\Release\ModelLibrary.dll
+D:\C#\BusStopBoard\ModelLibrary\obj\Release\ModelLibrary.pdb

@@ -1,0 +1,90 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BusStopBoard.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NameBusStop" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Название остановки</Value>
+    </Setting>
+    <Setting Name="WidthWindow" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
+    <Setting Name="HeightWindow" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">250</Value>
+    </Setting>
+    <Setting Name="FontSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">17</Value>
+    </Setting>
+    <Setting Name="AnimationSpeed" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="LenghtStartAnimation" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="NumberBusLinesValue" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="UpdateRateBusLinesValue" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="FontFamily" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Arial Black</Value>
+    </Setting>
+    <Setting Name="StyleWindow" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SelectedComponentColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Бегущая строка и время</Value>
+    </Setting>
+    <Setting Name="ChangeColorComboBox" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Green</Value>
+    </Setting>
+    <Setting Name="SelectedTransportType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Автобус</Value>
+    </Setting>
+    <Setting Name="MainTextColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Green</Value>
+    </Setting>
+    <Setting Name="BusColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Green</Value>
+    </Setting>
+    <Setting Name="TrolleybusColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Blue</Value>
+    </Setting>
+    <Setting Name="TramColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="PathToBusPicture" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/Pictures/Автобус.png</Value>
+    </Setting>
+    <Setting Name="PathToTrolleybusPicture" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/Pictures/Троллейбус.png</Value>
+    </Setting>
+    <Setting Name="PathToTramPicture" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/Pictures/Трамвай.png</Value>
+    </Setting>
+    <Setting Name="MediaUpdateTimer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="MediaDurationTimer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="ListMediaItems" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Login" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ServerIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ServerPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="IsAutoconnectServer" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

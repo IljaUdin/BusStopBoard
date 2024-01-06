@@ -1,0 +1,174 @@
+﻿<Window x:Class="MainWindow_BusStopBoard.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MainWindow_BusStopBoard.View"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="{Binding HeightWindow, Mode=TwoWay}" Width="{Binding WidthWindow, Mode=TwoWay}" FontSize="{Binding FontSize, Mode=TwoWay}" FontFamily="{Binding FontFamily, Mode=TwoWay}"
+        WindowStyle="None" AllowsTransparency="True" 
+        WindowStartupLocation="Manual" Left="0" Top="0">
+
+
+    <Window.Resources>
+        <SolidColorBrush x:Key="BlackBackground" Color="Black" />
+        <SolidColorBrush x:Key="WhiteSmokeBackground" Color="WhiteSmoke" />
+
+        <Style TargetType="Window" x:Key="MainWindowStyleResourse">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding StyleMainWindow, Mode=TwoWay}" Value="0">
+                    <Setter Property="Background"  Value="{StaticResource BlackBackground}"/>
+                </DataTrigger>
+                <DataTrigger Binding="{Binding StyleMainWindow, Mode=TwoWay}" Value="1">
+                    <Setter Property="Background" Value="{StaticResource WhiteSmokeBackground}"/>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+
+        <Storyboard x:Key="TickerStoryboard">
+            <DoubleAnimation Storyboard.TargetProperty="RenderTransform.(TranslateTransform.X)" Duration="0:0:10" RepeatBehavior="Forever"/>
+        </Storyboard>
+
+    </Window.Resources>
+
+    <Window.Style>
+        <StaticResource ResourceKey="MainWindowStyleResourse"/>
+    </Window.Style>
+
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Grid.Column="0" Text="{Binding BusStopName}" TextAlignment="Left" VerticalAlignment="Center" TextWrapping="Wrap" Foreground="{Binding MainTextColorMainWindow}"/>
+            <TextBlock Grid.Column="1" Text="{Binding TimeAndTemperatureLabel}" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="{Binding MainTextColorMainWindow}"/>
+        </Grid>
+
+        <Border Grid.Row="1" BorderBrush="{Binding MainTextColorMainWindow}" BorderThickness="0,1,0,1" />
+
+        <MediaElement Grid.Row="1" Name="MediaElement" LoadedBehavior="Manual"  Visibility="Hidden" Stretch="UniformToFill"/>
+
+        <DataGrid Grid.Row="1" Name="TransportEntriesList" AutoGenerateColumns="False" HeadersVisibility="None" GridLinesVisibility="None" Background="Transparent" BorderBrush="Transparent" 
+                  VerticalScrollBarVisibility="Hidden" HorizontalScrollBarVisibility="Hidden" ItemsSource="{Binding VisibleTransportEntries}">
+
+            <!--Привязка StyleMainWindow не работает, потому что внутри DataTemplate для ItemsControl устанавливается контекст данных на элементы коллекции TransportEntries. 
+                        При попытке обратиться к StyleMainWindow внутри этого DataTemplate, он пытается найти это свойство в каждом элементе коллекции, а не в основной ViewModel. 
+                        Для решения этой задачи используется {RelativeSource} для поиска родительского элемента типа Window и затем обращаемся к его DataContext, где у нас находится StyleMainWindow. 
+                        Это позволит правильно привязать StyleMainWindow внутри DataTemplate для ItemsControl.-->
+            <DataGrid.RowStyle>
+                <Style TargetType="DataGridRow">
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding DataContext.StyleMainWindow, RelativeSource={RelativeSource AncestorType={x:Type Window}}, Mode=TwoWay}" Value="0">
+                            <Setter Property="Background"  Value="Black"/>
+                            <Setter Property="Foreground" Value="WhiteSmoke"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding DataContext.StyleMainWindow, RelativeSource={RelativeSource AncestorType={x:Type Window}}, Mode=TwoWay}" Value="1">
+                            <Setter Property="Background" Value="WhiteSmoke"/>
+                            <Setter Property="Foreground" Value="Black"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </DataGrid.RowStyle>
+
+
+
+            <DataGrid.Columns>
+
+                <DataGridTemplateColumn x:Name="BorderPictureColumn" Width="Auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Border Margin="1" BorderThickness="1" BorderBrush="{Binding Path = TransportColor}">
+                                <Border.Style>
+                                    <Style TargetType="Border">
+                                        <Style.Triggers>
+                                            <DataTrigger Binding="{Binding DataContext.StyleMainWindow, RelativeSource={RelativeSource AncestorType={x:Type Window}}, Mode=TwoWay}" Value="0">
+                                                <Setter Property="CornerRadius"  Value="0,15,15,0"/>
+                                            </DataTrigger>
+                                            <DataTrigger Binding="{Binding DataContext.StyleMainWindow, RelativeSource={RelativeSource AncestorType={x:Type Window}}, Mode=TwoWay}" Value="1">
+                                                <Setter Property="CornerRadius" Value="0"/>
+                                            </DataTrigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </Border.Style>
+                                <StackPanel>
+                                    <Grid Grid.Column="0">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="0.4*"/>
+                                            <ColumnDefinition Width="*"/>
+                                        </Grid.ColumnDefinitions>
+                                        <Image Grid.Column="0" Source="{Binding Path = PathToPicture}" VerticalAlignment="Center" HorizontalAlignment="Left" Height="{Binding Path = DataContext.HeightPicture, RelativeSource={RelativeSource AncestorType={x:Type Window}}, Mode=OneWay}"/>
+                                        <TextBlock Grid.Column="1" Text="{Binding Path = TransportNumber}"  Foreground="{Binding Path = TransportColor}" VerticalAlignment="Center" TextWrapping="NoWrap"/>
+                                    </Grid>
+                                </StackPanel>
+                            </Border>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <ScrollViewer HorizontalScrollBarVisibility="Hidden" VerticalScrollBarVisibility="Hidden">
+                                <TextBlock Name="FinalStationTextBlock" Text="{Binding Path=FinalStation}" Margin="1,0" VerticalAlignment="Center" TextWrapping="Wrap" Loaded="FinalStationTextBlock_Loaded">
+                                                
+                                    <TextBlock.Style>
+                                        <Style TargetType="TextBlock">
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding DataContext.StyleMainWindow, RelativeSource={RelativeSource AncestorType={x:Type Window}}, Mode=TwoWay}" Value="0">
+                                                    <Setter Property="Foreground"  Value="White"/>
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding DataContext.StyleMainWindow, RelativeSource={RelativeSource AncestorType={x:Type Window}}, Mode=TwoWay}" Value="1">
+                                                    <Setter Property="Foreground" Value="Black"/>
+                                                </DataTrigger>
+
+                                            </Style.Triggers>
+                                        </Style>
+                                    </TextBlock.Style>
+
+                                </TextBlock>
+                            </ScrollViewer>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn Width="Auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock  Text="{Binding ArriavalTime}" Margin="1,0" VerticalAlignment="Center" HorizontalAlignment="Right">
+                                <TextBlock.Style>
+                                    <Style TargetType="TextBlock">
+                                        <Style.Triggers>
+                                            <DataTrigger Binding="{Binding DataContext.StyleMainWindow, RelativeSource={RelativeSource AncestorType={x:Type Window}}, Mode=TwoWay}" Value="0">
+                                                <Setter Property="Foreground"  Value="White"/>
+                                            </DataTrigger>
+                                            <DataTrigger Binding="{Binding DataContext.StyleMainWindow, RelativeSource={RelativeSource AncestorType={x:Type Window}}, Mode=TwoWay}" Value="1">
+                                                <Setter Property="Foreground" Value="Black"/>
+                                            </DataTrigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </TextBlock.Style>
+                            </TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Grid Grid.Row="2">
+            <ScrollViewer Margin="1, 0" Foreground="{Binding MainTextColorMainWindow}" HorizontalScrollBarVisibility="Hidden" VerticalScrollBarVisibility="Hidden">
+                <TextBlock x:Name="TickerTextBlock"  TextWrapping="Wrap" Text="{Binding TickerTextBlockText}" TextAlignment="Center"  Loaded="TickerTextBlockAnimation_Loaded"/>
+            </ScrollViewer>
+        </Grid>
+
+    </Grid>
+</Window>

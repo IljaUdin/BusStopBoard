@@ -1,0 +1,54 @@
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\MainWindow_BusStopBoard.dll
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\MainWindow_BusStopBoard.pdb
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\CommonServiceLocator.dll
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\GalaSoft.MvvmLight.dll
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\ModelLibrary.dll
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\System.Windows.Interactivity.dll
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\ModelLibrary.pdb
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\GalaSoft.MvvmLight.xml
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard.csproj.AssemblyReference.cache
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\View\MainWindow.g.cs
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard_MarkupCompile.cache
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard_MarkupCompile.lref
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\View\MainWindow.baml
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard.g.resources
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard.Properties.Resources.resources
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard.csproj.GenerateResource.cache
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard.csproj.CoreCompileInputs.cache
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard.csproj.CopyComplete
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard.dll
+D:\C#\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard.pdb
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\MainWindow_BusStopBoard.dll
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\MainWindow_BusStopBoard.pdb
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\CommonServiceLocator.dll
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\ModelLibrary.dll
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\ModelLibrary.pdb
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard.csproj.AssemblyReference.cache
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\View\MainWindow.g.cs
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard_MarkupCompile.cache
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard_MarkupCompile.lref
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\View\MainWindow.baml
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard.g.resources
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard.Properties.Resources.resources
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard.csproj.GenerateResource.cache
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard.csproj.CoreCompileInputs.cache
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard.csproj.CopyComplete
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard.dll
+C:\Users\scher\OneDrive\Рабочий стол\BusStopBoard\MainWindow_BusStopBoard\obj\Debug\MainWindow_BusStopBoard.pdb

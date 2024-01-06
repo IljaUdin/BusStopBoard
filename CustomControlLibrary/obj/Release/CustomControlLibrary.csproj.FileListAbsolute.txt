@@ -1,0 +1,16 @@
+D:\C#\BusStopBoard\CustomControlLibrary\bin\Release\CustomControlLibrary.dll
+D:\C#\BusStopBoard\CustomControlLibrary\bin\Release\CustomControlLibrary.pdb
+D:\C#\BusStopBoard\CustomControlLibrary\obj\Release\CustomControlLibrary.csproj.AssemblyReference.cache
+D:\C#\BusStopBoard\CustomControlLibrary\obj\Release\CustomControlLibrary_MarkupCompile.cache
+D:\C#\BusStopBoard\CustomControlLibrary\obj\Release\CustomControlLibrary.g.resources
+D:\C#\BusStopBoard\CustomControlLibrary\obj\Release\CustomControlLibrary.Properties.Resources.resources
+D:\C#\BusStopBoard\CustomControlLibrary\obj\Release\CustomControlLibrary.csproj.GenerateResource.cache
+D:\C#\BusStopBoard\CustomControlLibrary\obj\Release\CustomControlLibrary.csproj.CoreCompileInputs.cache
+D:\C#\BusStopBoard\CustomControlLibrary\obj\Release\CustomControlLibrary.dll
+D:\C#\BusStopBoard\CustomControlLibrary\obj\Release\CustomControlLibrary.pdb
+D:\C#\BusStopBoard\CustomControlLibrary\obj\Release\BusStopBoard\Button.baml
+D:\C#\BusStopBoard\CustomControlLibrary\obj\Release\BusStopBoard\ComboBox.baml
+D:\C#\BusStopBoard\CustomControlLibrary\obj\Release\BusStopBoard\Label.baml
+D:\C#\BusStopBoard\CustomControlLibrary\obj\Release\BusStopBoard\Shared.baml
+D:\C#\BusStopBoard\CustomControlLibrary\obj\Release\BusStopBoard\TabControl.baml
+D:\C#\BusStopBoard\CustomControlLibrary\obj\Release\BusStopBoard\TextBox.baml
